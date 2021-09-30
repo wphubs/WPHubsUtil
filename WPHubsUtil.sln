@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPHubsUtil", "WPUtils\WPHubsUtil.csproj", "{B8795345-F02B-4451-B6E8-F454BC9E026A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8795345-F02B-4451-B6E8-F454BC9E026A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8795345-F02B-4451-B6E8-F454BC9E026A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8795345-F02B-4451-B6E8-F454BC9E026A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8795345-F02B-4451-B6E8-F454BC9E026A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A76693E-AB7E-43C3-AE69-B8A38D211D57}
+	EndGlobalSection
+EndGlobal
