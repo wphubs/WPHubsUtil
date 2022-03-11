@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 using System.Text;
 
 
-namespace WPHubsUtil.Encrypt
+namespace WPHubsUtil
 {
     public class DESEncrypt
     {

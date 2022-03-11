@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace WPHubsUtil.DI
+namespace WPHubsUtil
 {
     public static class AssemblyDependency
     {

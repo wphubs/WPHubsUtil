@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPHubsUtil.Encrypt
+namespace WPHubsUtil
 {
     public class MD5Encrypt
     {
